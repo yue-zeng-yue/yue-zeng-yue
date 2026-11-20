@@ -33,11 +33,11 @@ A bounded SFT configuration and evaluation loop built around ms-swift.
 
 Literature, hypotheses, benchmark design, and reproducibility protocols.
 
-### Working fork
+### RL training frameworks
 
-[**verl**](https://github.com/yue-zeng-yue/verl)
+[**verl**](https://github.com/verl-project/verl) · [**OpenRLHF**](https://github.com/OpenRLHF/OpenRLHF) · [**slime**](https://github.com/THUDM/slime) · [**SkyRL**](https://github.com/skyrl-project/SkyRL)
 
-<sub>A working copy for training-system experiments. Credit belongs to the upstream <a href="https://github.com/verl-project/verl">verl community</a>.</sub>
+<sub>Community-developed frameworks. My working fork: <a href="https://github.com/yue-zeng-yue/verl">verl</a>.</sub>
 
 <br />
 
